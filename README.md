@@ -24,9 +24,8 @@ stock-price-predictor/
 ├── static/
 │   └── styles.css
 ├── templates/
-│   ├── index.html
-├── model/
-│   └── xgb_google_model.pkl
+│   └── index.html
+├── stock_predictor.model
 ├── app.py
 └── README.md
 ```
